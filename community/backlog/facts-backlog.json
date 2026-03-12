@@ -868,8 +868,10 @@
   {
     "id": 145,
     "fact": "The concept 'taisetsu' (大切) means precious or important - often said about relationships and feelings, not objects.",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "biancadene",
+    "completedPR": 8201
   },
   {
     "id": 146,
